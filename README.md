@@ -13,5 +13,5 @@ Swift 5.1+
 
 See other architectures as well
 
-- MVVM: https://github.com/mobileANDweb/MVVM-SwiftUI
-- Redux: https://github.com/mobileANDweb/Redux-SwiftUI
+- MVVM: https://github.com/fluffy919/MVVM-SwiftUI
+- Redux: https://github.com/fluffy919/Redux-SwiftUI
